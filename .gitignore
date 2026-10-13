@@ -1,0 +1,7 @@
+.dart_tool/
+build/
+.env
+.docker-data/
+*.iml
+.flutter-plugins*
+pubspec.lock
